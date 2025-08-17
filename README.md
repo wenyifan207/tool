@@ -1,7 +1,8 @@
 # 🚀 Tool v1.5
 
 Phiên bản **v1.5** của tool được tối ưu hiệu suất và dễ dàng sử dụng.  
-Đây là công cụ hỗ trợ mạnh mẽ cho lập trình viên & người dùng muốn tự động hóa nhanh chóng.  
+# 🥰 Cách Dùng
+- Fork repo về và thay đổi thông tin user trong config.json *bắt buộc
 
 ---
 
