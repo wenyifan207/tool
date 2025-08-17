@@ -1,1 +1,2 @@
 v1.5
+# ĐỂ TRÁNH LỖI VUI LÒNG CẬP NHẬT COMMIT MỚI NHẤT 
