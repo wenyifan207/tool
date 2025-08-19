@@ -1,14 +1,15 @@
-# 🚀 Tool v1.5
+# 🚀 Tool v2.0
 
-Phiên bản **v1.5** của tool được tối ưu hiệu suất và dễ dàng sử dụng.  
+@ Cách bào mới chi tiết ở nhóm mes   
 # 🥰 Cách Dùng
 - Fork repo về và thay đổi thông tin user trong config.json *bắt buộc
+- Nếu ko biết fork coi YouTube 
 
 ---
 
 ## ⚡ Yêu cầu hệ thống
 
-- **Node.js** (>= 16.x)  
+- **Node.js** (>= 20.x)  
 - **npm** (hoặc yarn/pnpm)  
 
 ---
